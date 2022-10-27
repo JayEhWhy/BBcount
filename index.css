@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    text-align: center
+    
+}
+.score {
+    background: black;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+   
+
+}
+
+
+.container {
+    display: center;
+    justify-content: space-around;
+    
+}
+button {
+    background: none;
+   
+}
+
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    
+    
+}
+
+h4 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    
+}
+
+
+
